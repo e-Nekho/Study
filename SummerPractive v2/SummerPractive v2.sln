@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerPractive v2", "SummerPractive v2\SummerPractive v2.csproj", "{B70FFDE9-D0E1-4D7F-A5BB-C9C31E47D7F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B70FFDE9-D0E1-4D7F-A5BB-C9C31E47D7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70FFDE9-D0E1-4D7F-A5BB-C9C31E47D7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70FFDE9-D0E1-4D7F-A5BB-C9C31E47D7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70FFDE9-D0E1-4D7F-A5BB-C9C31E47D7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89D8B6D-13EE-49FF-BF51-C2A0FB354043}
+	EndGlobalSection
+EndGlobal
